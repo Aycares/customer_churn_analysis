@@ -40,7 +40,5 @@ The dataset contains customer information such as:
 - Potential **10–15% churn reduction** in high-risk segments.
 - Estimated **$500k+ yearly revenue retention**.
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/repo-name.git
+**Author**
+Adeleye Ayokunke Temitope
